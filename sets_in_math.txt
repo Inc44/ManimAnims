@@ -1,0 +1,1 @@
+ffmpeg -i input.mov -c:v libsvtav1 -preset 12 -pix_fmt yuv420p10le output.mp4
