@@ -5,7 +5,7 @@ Manim is an animation engine for explanatory math videos. It's used to create pr
 ## 🌌 Gallery
 
 - 🔘 Sets In Math
-  - ![Sets In Math Animation](SetsInMath/sets_in_math.mp4)
+  - ![Sets In Math Animation](SetsInMath/sets_in_math_h264.mp4)
 
 ## 🚀 Getting Started
 
@@ -33,10 +33,14 @@ manim sets_in_math.py
 
 ## Small Recommendation to Save Some Space
 
-If you want to compress your lossless videos and save space, consider converting them to the AV1 format using FFMPEG:
+If you want to compress your lossless videos and save space, consider converting them to the AV1 or H264 format using FFMPEG:
 
 ```bash
 ffmpeg -i input.mov -c:v libsvtav1 -preset 6 -pix_fmt yuv420p10le output.mp4
+```
+
+```bash
+ffmpeg -i input.mov -c:v libx264 -preset placebo output.mp4
 ```
 
 ## 🎨 Customization
