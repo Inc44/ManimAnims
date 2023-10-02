@@ -2,8 +2,8 @@ from manim import *
 config.frame_height=6
 config.frame_rate=60
 config.frame_width=6
-config.pixel_height=2**12
-config.pixel_width=2**12
+config.pixel_height=2**10
+config.pixel_width=2**10
 config.transparent=True
 class SetsInMath(Scene):
 	def z(self,b,c,d,e,f=None):
