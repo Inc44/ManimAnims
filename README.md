@@ -6,7 +6,7 @@ Manim is an animation engine for explanatory math videos. It's used to create pr
 
 - 🔘 Sets In Math
 
-https://github.com/Inc44/ManimAnims/assets/121856799/2cbe27a2-6313-4408-9970-a99d33a08405
+https://github.com/Inc44/ManimAnims/assets/121856799/628d53da-a4d1-4768-87d8-9b625b15fbea
 
 ## 🚀 Getting Started
 
