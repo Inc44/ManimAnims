@@ -1,0 +1,17 @@
+🌈 Dive into the vibrant world of numbers! From basics to the beyond:
+
+🟥 Naturals (ℕ): Start from the basics. Examples: 1, 2, 3...
+🟧 Wholes (𝕎): Naturals plus zero. Examples: 0, 1, 2...
+🟨 Integers (ℤ): Naturals, zero, and their negatives. Like: -1, 0, 1...
+🟩 Decimals (𝔻): Not wholly whole! Examples: 0.25, 0.33, 0.5.
+🟦 Rationals (ℚ): Fractions made from integers. For instance: ⅓, ⅙, ⅐.
+🔵 Irrationals (𝕀): Can't be expressed as simple fractions. Think: √2, φ.
+🟪 Algebraic (𝔸): Solutions to polynomial equations. Such as: √2, φ.
+🟥 Transcendentals (𝕋): Beyond algebra's grasp. Members include: ln(2), π, and e.
+🟧 Reals (ℝ): Covering the entire number line, from -∞ to +∞.
+🟨 Pure Imaginaries (ℙ): Exclusively imaginary, sans zero. Like: 2i, 3i.
+🟩 Imaginaries (𝒾ℝ): The realm of imagination. Examples: 0, 2i, 3i.
+🟦 Complex (ℂ): Marrying real and imaginary. Delve into: 1+2i, ln(2)+πi.
+🟪 Quaternions (ℍ): More than complex, with components like 1, i, j, and k.
+🔵 Octonions (𝕆): Dive into 8 dimensions, from e₀ to e₇.
+🟥 Sedenions (𝕊): A staggering 16 dimensions! Spanning e₀ to e₁₅.
